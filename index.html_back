@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+	<title>Portal NO Oficial de Turismo de la Comunidad Valenciana - Turisme de la Comunitat Valenciana</title>
+	<meta name="title" content="Portal NO Oficial de Turismo de la Comunidad Valenciana - Turisme de la Comunitat Valenciana" />
+	<meta name="description" content="Portal NO Oficial de Turismo de la Comunitat Valenciana. Recursos turísticos, playas, nautica, hoteles, campings, grandes eventos,náutica, fiestas, webcams e información de Valencia, Alicante y Castellon" />
+	<meta name="keywords" content="turismo comunitat valenciana, turismo,  comunidad valenciana,benidorm,costa blanca,costa azahar,alicante,hogueras san juan,ciudad de valencia,comunitat valenciana,playas españa,vacaciones alicante,vacaciones benidorm,valencia,campings valencia,campos de golf,deportes nautica,fallas,viajes valencia,rutas valencia,hoteles alicante,hoteles benidorm,hoteles costa blanca,hoteles valencia,turismo rural españa,ofertas hotel benidorm,ofertas turismo rural" />
+	<meta name="author" content="Jonathan Ruiz Peinado" />
+	<meta name="Rights" content="Los derechos de propiedad intelectual del contenido y cualquier otro material de este web son de libre distribucion." />
+	<meta name="language" scheme="RFC1766" content="spa" />
+	<meta name="google-site-verification" content="" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="content-language" content="ES" />
+        <meta name="robots" content="follow,index" />
+        
+        <meta property="og:title" content="Turisme en la Comunitat Valenciana - Pagina Inicial"/>
+        <meta property="og:image" content="http://davidwalsh.name/wp-content/themes/klass/img/facebooklogo.png"/>
+        <meta property="og:url" content="http://www.turismecomunitatvalenciana.info"/>
+        <meta property="og:site_name" content="Turisme en la Comunitat Valenciana"/>
+        <meta property="og:type" content="tourism"/>
+
+	<script type="text/javascript">
+
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-31095889-1']);
+		  _gaq.push(['_setDomainName', 'turismecomunitatvalenciana.info']);
+		  _gaq.push(['_trackPageview']);
+
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+
+	</script>
+        
+</head>
+
+<body>
+        <p>Web participante en el Segundo Concurso de Posicionamiento <a href="http://www.gedestic.es" target="_blank">GedesTIC</a></p>
+
+</body>
+</html>
+

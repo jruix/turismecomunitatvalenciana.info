@@ -1,0 +1,895 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mantra International\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-09-12 22:22+0200\n"
+"PO-Revision-Date: 2011-09-12 22:23+0200\n"
+"Last-Translator: Kay <contact@htx.ro>\n"
+"Language-Team: Cryout Creations <contact@htx.ro>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:16
+#: loop.php:42
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:18
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr ""
+
+#: archive.php:31
+msgid "Daily Archives: "
+msgstr ""
+
+#: archive.php:33
+msgid "Monthly Archives: "
+msgstr ""
+
+#: archive.php:35
+msgid "Yearly Archives: "
+msgstr ""
+
+#: archive.php:37
+msgid "Blog Archives"
+msgstr ""
+
+#: attachment.php:18
+#, php-format
+msgid "Return to %s"
+msgstr ""
+
+#: attachment.php:29
+msgid "By"
+msgstr ""
+
+#: attachment.php:40
+msgid "Published"
+msgstr ""
+
+#: attachment.php:50
+#, php-format
+msgid "Full size is %s pixels"
+msgstr ""
+
+#: attachment.php:53
+msgid "Link to full-size image"
+msgstr ""
+
+#: attachment.php:60
+#: attachment.php:107
+#: loop.php:104
+#: loop.php:127
+#: loop.php:174
+#: onecolumn-page.php:27
+#: page.php:32
+msgid "Edit"
+msgstr ""
+
+#: attachment.php:100
+#: loop.php:119
+#: loop.php:156
+msgid "Continue reading"
+msgstr ""
+
+#: attachment.php:101
+#: loop.php:157
+#: onecolumn-page.php:26
+#: page.php:31
+msgid "Pages:"
+msgstr ""
+
+#: author.php:27
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: author.php:37
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: category.php:26
+#, php-format
+msgid "Category Archive: %s"
+msgstr ""
+
+#: category.php:35
+#, php-format
+msgid "Subcategories: %s"
+msgstr ""
+
+#: comments.php:18
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:41
+#: comments.php:60
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:42
+#: comments.php:61
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:177
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions.php:216
+msgid "mantra"
+msgstr ""
+
+#: functions.php:355
+msgid "says:"
+msgstr ""
+
+#: functions.php:361
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:368
+msgid "at"
+msgstr ""
+
+#: functions.php:368
+#: functions.php:385
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:385
+msgid "Pingback: "
+msgstr ""
+
+#: functions.php:404
+msgid "Primary Widget Area"
+msgstr ""
+
+#: functions.php:406
+msgid "The primary widget area"
+msgstr ""
+
+#: functions.php:415
+msgid "Secondary Widget Area"
+msgstr ""
+
+#: functions.php:417
+msgid "The secondary widget area"
+msgstr ""
+
+#: functions.php:426
+msgid "First Footer Widget Area"
+msgstr ""
+
+#: functions.php:428
+msgid "The first footer widget area"
+msgstr ""
+
+#: functions.php:437
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#: functions.php:439
+msgid "The second footer widget area"
+msgstr ""
+
+#: functions.php:448
+msgid "Third Footer Widget Area"
+msgstr ""
+
+#: functions.php:450
+msgid "The third footer widget area"
+msgstr ""
+
+#: functions.php:459
+msgid "Fourth Footer Widget Area"
+msgstr ""
+
+#: functions.php:461
+msgid "The fourth footer widget area"
+msgstr ""
+
+#: functions.php:501
+msgid "By "
+msgstr ""
+
+#: functions.php:520
+#: loop.php:171
+msgid "Tagged"
+msgstr ""
+
+#: functions.php:520
+#: functions.php:522
+#: functions.php:524
+msgid "Bookmark the "
+msgstr ""
+
+#: functions.php:520
+#: functions.php:522
+#: functions.php:524
+msgid "permalink"
+msgstr ""
+
+#: header.php:33
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: header.php:160
+msgid "Back to Top"
+msgstr ""
+
+#: header.php:195
+msgid "Skip to content"
+msgstr ""
+
+#: loop.php:34
+#: loop.php:187
+msgid " Older posts"
+msgstr ""
+
+#: loop.php:35
+#: loop.php:188
+msgid "Newer posts"
+msgstr ""
+
+#: loop.php:44
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr ""
+
+#: loop.php:91
+#, php-format
+msgid "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr ""
+
+#: loop.php:101
+msgid "More Galleries"
+msgstr ""
+
+#: loop.php:103
+#: loop.php:126
+#: loop.php:138
+msgid "Leave a comment"
+msgstr ""
+
+#: loop.php:103
+#: loop.php:126
+#: loop.php:138
+msgid "1 Comment"
+msgstr ""
+
+#: loop.php:103
+#: loop.php:126
+#: loop.php:138
+msgid "% Comments"
+msgstr ""
+
+#: mantra-admin-functions.php:36
+msgid "Layout Settings"
+msgstr ""
+
+#: mantra-admin-functions.php:37
+msgid "Text Settings"
+msgstr ""
+
+#: mantra-admin-functions.php:38
+msgid "Color Settings"
+msgstr ""
+
+#: mantra-admin-functions.php:39
+msgid "Graphics Settings"
+msgstr ""
+
+#: mantra-admin-functions.php:40
+msgid "Post Information Settings"
+msgstr ""
+
+#: mantra-admin-functions.php:41
+msgid "Post Excerpt Settings"
+msgstr ""
+
+#: mantra-admin-functions.php:42
+msgid "Social Sites Settings"
+msgstr ""
+
+#: mantra-admin-functions.php:44
+msgid "Sidemenu Position"
+msgstr ""
+
+#: mantra-admin-functions.php:45
+msgid "Content / Sidebar Width"
+msgstr ""
+
+#: mantra-admin-functions.php:46
+msgid "Total Site Width"
+msgstr ""
+
+#: mantra-admin-functions.php:47
+msgid "Padding between Columns"
+msgstr ""
+
+#: mantra-admin-functions.php:49
+msgid "Select Font Type"
+msgstr ""
+
+#: mantra-admin-functions.php:50
+msgid "Select General Font Size"
+msgstr ""
+
+#: mantra-admin-functions.php:51
+msgid "Select Post Header Font Size"
+msgstr ""
+
+#: mantra-admin-functions.php:52
+msgid "Select SideBar Font Size"
+msgstr ""
+
+#: mantra-admin-functions.php:53
+msgid "Force Text Align"
+msgstr ""
+
+#: mantra-admin-functions.php:54
+msgid "Paragraph indent"
+msgstr ""
+
+#: mantra-admin-functions.php:55
+msgid "Line Height"
+msgstr ""
+
+#: mantra-admin-functions.php:56
+msgid "Word spacing"
+msgstr ""
+
+#: mantra-admin-functions.php:57
+msgid "Letter spacing"
+msgstr ""
+
+#: mantra-admin-functions.php:60
+msgid "Background Color"
+msgstr ""
+
+#: mantra-admin-functions.php:61
+msgid "Header Color"
+msgstr ""
+
+#: mantra-admin-functions.php:62
+msgid "Pre-Footer Color"
+msgstr ""
+
+#: mantra-admin-functions.php:63
+msgid "Footer Color"
+msgstr ""
+
+#: mantra-admin-functions.php:65
+msgid "Title Color"
+msgstr ""
+
+#: mantra-admin-functions.php:66
+msgid "Description Color"
+msgstr ""
+
+#: mantra-admin-functions.php:68
+msgid "Content Text Color"
+msgstr ""
+
+#: mantra-admin-functions.php:69
+msgid "Links Color"
+msgstr ""
+
+#: mantra-admin-functions.php:70
+msgid "Links Hover Color"
+msgstr ""
+
+#: mantra-admin-functions.php:71
+msgid "Entry Title Color"
+msgstr ""
+
+#: mantra-admin-functions.php:72
+msgid "Entry Title Hover Color"
+msgstr ""
+
+#: mantra-admin-functions.php:73
+msgid "Sidebar Header Background Color"
+msgstr ""
+
+#: mantra-admin-functions.php:74
+msgid "Sidebar Header Text Color"
+msgstr ""
+
+#: mantra-admin-functions.php:75
+msgid "Footer Widget Header Text Color"
+msgstr ""
+
+#: mantra-admin-functions.php:76
+msgid "Footer Widget Link Color"
+msgstr ""
+
+#: mantra-admin-functions.php:77
+msgid "Footer Widget Hover Color"
+msgstr ""
+
+#: mantra-admin-functions.php:79
+msgid "Caption Border"
+msgstr ""
+
+#: mantra-admin-functions.php:80
+msgid "Caption Pin"
+msgstr ""
+
+#: mantra-admin-functions.php:81
+msgid "Sidebar Menu Bullets"
+msgstr ""
+
+#: mantra-admin-functions.php:82
+msgid "Content List Bullets"
+msgstr ""
+
+#: mantra-admin-functions.php:83
+msgid "Title and Description"
+msgstr ""
+
+#: mantra-admin-functions.php:84
+msgid "Page Titles"
+msgstr ""
+
+#: mantra-admin-functions.php:85
+msgid "Category Page Titles"
+msgstr ""
+
+#: mantra-admin-functions.php:86
+msgid "Invisible Tables"
+msgstr ""
+
+#: mantra-admin-functions.php:87
+msgid "Enable Back to Top button"
+msgstr ""
+
+#: mantra-admin-functions.php:88
+msgid "Text Under Comments"
+msgstr ""
+
+#: mantra-admin-functions.php:89
+msgid "Insert footer copyright"
+msgstr ""
+
+#: mantra-admin-functions.php:91
+msgid "Post Date"
+msgstr ""
+
+#: mantra-admin-functions.php:92
+msgid "Post Time"
+msgstr ""
+
+#: mantra-admin-functions.php:93
+msgid "Post Author"
+msgstr ""
+
+#: mantra-admin-functions.php:94
+msgid "Post Category"
+msgstr ""
+
+#: mantra-admin-functions.php:95
+msgid "Post Permalink"
+msgstr ""
+
+#: mantra-admin-functions.php:97
+msgid "Post Excerpts on Home Page"
+msgstr ""
+
+#: mantra-admin-functions.php:98
+msgid "Post Excerpts on Arhive and Category Pages"
+msgstr ""
+
+#: mantra-admin-functions.php:99
+msgid "Affect posts in Asides Category"
+msgstr ""
+
+#: mantra-admin-functions.php:100
+msgid "Number of Words for Post Excerpts "
+msgstr ""
+
+#: mantra-admin-functions.php:101
+msgid "Excerpt suffix"
+msgstr ""
+
+#: mantra-admin-functions.php:102
+msgid "Continue reading link text "
+msgstr ""
+
+#: mantra-admin-functions.php:105
+msgid "Facebook Link"
+msgstr ""
+
+#: mantra-admin-functions.php:106
+msgid "Tweeter Link"
+msgstr ""
+
+#: mantra-admin-functions.php:107
+msgid "RSS Feed Link"
+msgstr ""
+
+#: mantra-admin-functions.php:178
+#: mantra-admin-functions.php:394
+msgid "Left"
+msgstr ""
+
+#: mantra-admin-functions.php:178
+#: mantra-admin-functions.php:394
+msgid "Right"
+msgstr ""
+
+#: mantra-admin-functions.php:178
+#: mantra-admin-functions.php:700
+#: mantra-admin-functions.php:729
+msgid "Disable"
+msgstr ""
+
+#: mantra-admin-functions.php:186
+msgid ""
+"Select the side on which to display the sidebar. You can also choose to disable it altogether and have only one column for a presentation-like design.\n"
+"\t\t\tDisabling the sidemenu also disables the Content/Sidemenu Width option."
+msgstr ""
+
+#: mantra-admin-functions.php:251
+msgid ""
+"Select the width of your <b>content</b> and <b>sidebar</b>. <br />\n"
+" \t\tWhile the content cannot be less than 550px wide, the sidebar is at least 220px and no more than 500px."
+msgstr ""
+
+#: mantra-admin-functions.php:262
+msgid "This will be the <b>total width</b> of your site. This is not an editable field; it is calculated automatically after the content/sidebar slider. The absolute maximum is 1440."
+msgstr ""
+
+#: mantra-admin-functions.php:276
+msgid "Select the padding between the content and the sidebar."
+msgstr ""
+
+#: mantra-admin-functions.php:294
+msgid "Select the font size you'll use in your blog. Pages, posts and comments will be affected. Buttons, Headers and Side menus will remain the same."
+msgstr ""
+
+#: mantra-admin-functions.php:359
+msgid "Select the font family you'll use in your blog. All text will be affected (including header text, menu buttons, side menu text etc.)."
+msgstr ""
+
+#: mantra-admin-functions.php:366
+#: mantra-admin-functions.php:380
+#: mantra-admin-functions.php:394
+#: mantra-admin-functions.php:421
+#: mantra-admin-functions.php:435
+#: mantra-admin-functions.php:449
+msgid "Default"
+msgstr ""
+
+#: mantra-admin-functions.php:373
+msgid "Post Header Font size. Leave 'Default' for normal settings (size value will be as set in the CSS)."
+msgstr ""
+
+#: mantra-admin-functions.php:387
+msgid "Sidebar Font size. Leave 'Default' for normal settings (size value will be as set in the CSS)."
+msgstr ""
+
+#: mantra-admin-functions.php:394
+msgid "Justify"
+msgstr ""
+
+#: mantra-admin-functions.php:394
+msgid "Center"
+msgstr ""
+
+#: mantra-admin-functions.php:401
+msgid "This overwrites the text alignment in posts and pages. Leave 'Default' for normal settings (alignment will remain as declared in posts, comments etc.)."
+msgstr ""
+
+#: mantra-admin-functions.php:414
+msgid "Choose the indent for your paragraphs."
+msgstr ""
+
+#: mantra-admin-functions.php:428
+msgid "Text line height. The height between 2 rows of text. Leave 'Default' for normal settings (size value will be as set in the CSS)."
+msgstr ""
+
+#: mantra-admin-functions.php:442
+msgid "The space between <i>words</i>. Leave 'Default' for normal settings (size value will be as set in the CSS)."
+msgstr ""
+
+#: mantra-admin-functions.php:456
+msgid "The space between <i>letters</i>. Leave 'Default' for normal settings (size value will be as set in the CSS)."
+msgstr ""
+
+#: mantra-admin-functions.php:468
+msgid "Background color (Default value is 444444)."
+msgstr ""
+
+#: mantra-admin-functions.php:476
+msgid "Header background color (Default value is 333333). You can delete all insde text for no background color."
+msgstr ""
+
+#: mantra-admin-functions.php:484
+msgid "Footer widget-area background color. (Default value is 171717)."
+msgstr ""
+
+#: mantra-admin-functions.php:492
+msgid "Footer background color (Default value is 222222)."
+msgstr ""
+
+#: mantra-admin-functions.php:500
+msgid "Your blog's title color (Default value is 0D85CC)."
+msgstr ""
+
+#: mantra-admin-functions.php:508
+msgid "Your blog's description color(Default value is 222222)."
+msgstr ""
+
+#: mantra-admin-functions.php:516
+msgid "Content Text Color (Default value is 333333)."
+msgstr ""
+
+#: mantra-admin-functions.php:524
+msgid "Links color (Default value is 0D85CC)."
+msgstr ""
+
+#: mantra-admin-functions.php:532
+msgid "Links color on mouse over (Default value is 333333)."
+msgstr ""
+
+#: mantra-admin-functions.php:540
+msgid "Post Header Text Color (Default value is 333333)."
+msgstr ""
+
+#: mantra-admin-functions.php:548
+msgid "Post Header Text Color on Mouse over (Default value is 000000)."
+msgstr ""
+
+#: mantra-admin-functions.php:556
+msgid "Sidebar Header Background color (Default value is 444444)."
+msgstr ""
+
+#: mantra-admin-functions.php:565
+msgid "Sidebar Header Text Color(Default value is 2EA5FD)."
+msgstr ""
+
+#: mantra-admin-functions.php:573
+msgid "Footer Widget Text Color (Default value is 0D85CC)."
+msgstr ""
+
+#: mantra-admin-functions.php:581
+msgid "Footer Widget Link Color (Default value is 666666)."
+msgstr ""
+
+#: mantra-admin-functions.php:589
+msgid "Footer Widget Link Color on Mouse Over (Default value is 888888)."
+msgstr ""
+
+#: mantra-admin-functions.php:601
+msgid "White"
+msgstr ""
+
+#: mantra-admin-functions.php:601
+msgid "Light"
+msgstr ""
+
+#: mantra-admin-functions.php:601
+msgid "Light Gray"
+msgstr ""
+
+#: mantra-admin-functions.php:601
+msgid "Gray"
+msgstr ""
+
+#: mantra-admin-functions.php:601
+msgid "Dark Gray"
+msgstr ""
+
+#: mantra-admin-functions.php:601
+msgid "Black"
+msgstr ""
+
+#: mantra-admin-functions.php:608
+msgid "This setting changes the look of your captions. Images that are not inserted through captions will not be affected."
+msgstr ""
+
+#: mantra-admin-functions.php:621
+msgid "The image on top of your captions. "
+msgstr ""
+
+#: mantra-admin-functions.php:634
+msgid "The sidebar list bullets. "
+msgstr ""
+
+#: mantra-admin-functions.php:642
+#: mantra-admin-functions.php:658
+#: mantra-admin-functions.php:672
+#: mantra-admin-functions.php:686
+#: mantra-admin-functions.php:714
+#: mantra-admin-functions.php:755
+#: mantra-admin-functions.php:769
+#: mantra-admin-functions.php:783
+#: mantra-admin-functions.php:797
+#: mantra-admin-functions.php:811
+msgid "Show"
+msgstr ""
+
+#: mantra-admin-functions.php:642
+#: mantra-admin-functions.php:658
+#: mantra-admin-functions.php:672
+#: mantra-admin-functions.php:686
+#: mantra-admin-functions.php:714
+#: mantra-admin-functions.php:755
+#: mantra-admin-functions.php:769
+#: mantra-admin-functions.php:783
+#: mantra-admin-functions.php:797
+#: mantra-admin-functions.php:811
+msgid "Hide"
+msgstr ""
+
+#: mantra-admin-functions.php:649
+msgid "Hide or show  bullets next to lists that are in your content area (posts, pages etc.)."
+msgstr ""
+
+#: mantra-admin-functions.php:665
+msgid "Hide or show your blog's Title and Description in the header (recommended if you have a custom header image with text)."
+msgstr ""
+
+#: mantra-admin-functions.php:679
+msgid "Hide or show Page titles on any <i>created</i> pages. "
+msgstr ""
+
+#: mantra-admin-functions.php:693
+msgid "Hide or show Page titles on <i>Category</i> Pages. "
+msgstr ""
+
+#: mantra-admin-functions.php:700
+#: mantra-admin-functions.php:729
+msgid "Enable"
+msgstr ""
+
+#: mantra-admin-functions.php:707
+msgid "Hide table borders and background color."
+msgstr ""
+
+#: mantra-admin-functions.php:721
+msgid "Hide the explanatory text under the comments form. (starts with  <i>You may use these HTML tags and attributes:...</i>)."
+msgstr ""
+
+#: mantra-admin-functions.php:736
+msgid "Enable the Back to Top button. The button appears after scrolling the page down."
+msgstr ""
+
+#: mantra-admin-functions.php:743
+msgid "Insert custom text that will appear on the left side of the footer. Leave blank if that's not necessary.<br /> You can use HTML tags and any special characters like &copy ."
+msgstr ""
+
+#: mantra-admin-functions.php:762
+msgid "Hide or show the post date."
+msgstr ""
+
+#: mantra-admin-functions.php:776
+msgid "Show the post time with the date. Time will not be visible if the Post Date is hidden."
+msgstr ""
+
+#: mantra-admin-functions.php:790
+msgid "Hide or show the post author."
+msgstr ""
+
+#: mantra-admin-functions.php:804
+msgid "Hide the post category (and tags if available)."
+msgstr ""
+
+#: mantra-admin-functions.php:818
+msgid "Hide the 'Bookmark permalink'."
+msgstr ""
+
+#: mantra-admin-functions.php:831
+#: mantra-admin-functions.php:860
+msgid "Excerpt"
+msgstr ""
+
+#: mantra-admin-functions.php:831
+#: mantra-admin-functions.php:860
+msgid "Full Post"
+msgstr ""
+
+#: mantra-admin-functions.php:838
+msgid "Excerpts on the main page."
+msgstr ""
+
+#: mantra-admin-functions.php:845
+msgid "Yes"
+msgstr ""
+
+#: mantra-admin-functions.php:845
+msgid "No"
+msgstr ""
+
+#: mantra-admin-functions.php:853
+msgid "Also affect posts in the Asides Category (if you don't know what Asides are then leave it to Yes). More info on asides <a href='http://codex.wordpress.org/Adding_Asides'>here</a> "
+msgstr ""
+
+#: mantra-admin-functions.php:867
+msgid "Excerpts on archive, categroy and search pages."
+msgstr ""
+
+#: mantra-admin-functions.php:880
+msgid "Number of words for an excerpt."
+msgstr ""
+
+#: mantra-admin-functions.php:887
+msgid "Replaces the three dots ('[...])' that are appended automatically to excerpts."
+msgstr ""
+
+#: mantra-admin-functions.php:894
+msgid "Edit the 'Continue Reading' link added to your post excerpts."
+msgstr ""
+
+#: mantra-admin-functions.php:906
+msgid "Insert your Facebook address. "
+msgstr ""
+
+#: mantra-admin-functions.php:913
+msgid "Insert your Twitter address."
+msgstr ""
+
+#: mantra-admin-functions.php:920
+msgid "Insert your RSS Feed Link. "
+msgstr ""
+
+#: mantra-admin-functions.php:984
+msgid "Sorry, but you do not have sufficient permissions to access this page."
+msgstr ""
+
+#: mantra-admin-functions.php:991
+msgid "Mantra Settings"
+msgstr ""
+
+#: mantra-admin-functions.php:994
+msgid "Mantra settings updated successfully."
+msgstr ""
+
+#: mantra-admin-functions.php:997
+msgid "Customize the Mantra Theme to suit your needs. Visit the theme's <a href='http://www.riotreactions.com/mantra'>home page</a> for more info, feedback and comments or"
+msgstr ""
+
+#: mantra-admin-functions.php:1019
+msgid "Save Changes"
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:26
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:28
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#: sidebar.php:27
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:34
+msgid "Meta"
+msgstr ""
+
+#: single.php:44
+msgid "View all posts by "
+msgstr ""
+
+#: tag.php:16
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
